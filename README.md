@@ -1,6 +1,6 @@
 # Álcool ou Gasolina Estendido 🚗⛽
 
-![Banner do App](path/to/1.png)
+![Banner do App](path/1.png)
 
 **Álcool ou Gasolina Estendido** é um aplicativo Android desenvolvido para ajudar o usuário a decidir se deve abastecer seu veículo com álcool ou gasolina, baseado na relação de preços de cada combustível e em critérios personalizados de rentabilidade. O app também permite registrar e salvar locais de postos de combustível com preços históricos, usando mapa interativo.
 
