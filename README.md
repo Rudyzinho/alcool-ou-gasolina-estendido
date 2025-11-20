@@ -105,5 +105,3 @@ git clone github.com/Rudyzinho/alcool-ou-gasolina-estendido.git
 * Cada posto salvo mantém o **percentual de referência usado** no momento da criação, garantindo consistência nas comparações históricas.
 
 
-
-**Desenvolvedor:** Erik Oliveira
