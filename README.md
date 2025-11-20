@@ -76,7 +76,7 @@
 
 ### Vídeo Demonstração
 
-[![Assista ao Vídeo](path/to/video-thumbnail.png)](path/to/demo-video.mp4)
+[![Assista ao Vídeo]](demovideo.mp4)
 
 ---
 
