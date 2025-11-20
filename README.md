@@ -74,7 +74,7 @@
 
 ![Histórico](imagens/comparacoes.png)
 
-### Vídeo Demonstração
+### Vídeo Demonstração (Clique para assistir)
 
 [![Assista ao vídeo](imagens/fotovideo.png)](https://drive.google.com/file/d/1eImQk3Rzs72TdzvCpZW9NxX-8_UEuBv-/view?usp=sharing)
 
