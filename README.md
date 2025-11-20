@@ -64,15 +64,15 @@
 
 ### Tela Principal
 
-![Tela Principal](path/to/main-screen.png)
+![Tela Principal](imagens/telaprincipal.png)
 
 ### Seleção de Localização no Mapa
 
-![Mapa](path/to/map-screen.png)
+![Mapa](imagens/mapscreen.png)
 
 ### Histórico de Postos
 
-![Histórico](path/to/history-screen.png)
+![Histórico](imagens/comparacoes.png)
 
 ### Vídeo Demonstração
 
