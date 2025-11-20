@@ -76,7 +76,7 @@
 
 ### Vídeo Demonstração
 
-[![Assista ao Vídeo]](https://drive.google.com/file/d/1eImQk3Rzs72TdzvCpZW9NxX-8_UEuBv-/view?usp=sharing)
+![Assista ao Vídeo](https://drive.google.com/file/d/1eImQk3Rzs72TdzvCpZW9NxX-8_UEuBv-/view?usp=sharing)
 
 ---
 
