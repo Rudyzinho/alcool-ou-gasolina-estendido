@@ -58,22 +58,6 @@
 
 ---
 
-## 🗂 Estrutura do Projeto
-
-```
-com.rudy.lcoolougasolina
-│
-├── MainActivity.kt       # Tela principal com cadastro de postos
-├── MapPickerActivity.kt  # Tela de mapa e seleção de localização
-├── Station.kt            # Model e persistência de dados
-├── Utils.kt              # Funções auxiliares (cálculos e formatação)
-└── res/
-    ├── drawable/
-    ├── layout/
-    ├── values/
-    └── values-en-us/     # Internacionalização
-```
-
 ---
 
 ## 📸 Capturas e Demonstrações
