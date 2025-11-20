@@ -76,7 +76,7 @@
 
 ### Vídeo Demonstração
 
-[![Assista ao Vídeo]](demovideo.mp4)
+[![Assista ao Vídeo]](https://drive.google.com/file/d/1eImQk3Rzs72TdzvCpZW9NxX-8_UEuBv-/view?usp=sharing)
 
 ---
 
@@ -85,7 +85,7 @@
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/alcool-ou-gasolina.git
+git clone github.com/Rudyzinho/alcool-ou-gasolina-estendido.git
 ```
 
 2. Abra o projeto no **Android Studio** (versão recomendada: Arctic Fox ou superior).
@@ -104,28 +104,6 @@ git clone https://github.com/seuusuario/alcool-ou-gasolina.git
 * Os dados são persistidos localmente no dispositivo via `SharedPreferences`.
 * Cada posto salvo mantém o **percentual de referência usado** no momento da criação, garantindo consistência nas comparações históricas.
 
----
 
-## 💡 Ideias Futuras
-
-* Suporte a múltiplos critérios personalizados pelo usuário.
-* Integração com API de preços de combustível em tempo real.
-* Filtragem e ordenação avançada do histórico.
-* Sincronização com nuvem (Firebase ou outro serviço).
-
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request com melhorias, correções ou novas funcionalidades.
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 **Desenvolvedor:** Erik Oliveira
-📧 Contato: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
