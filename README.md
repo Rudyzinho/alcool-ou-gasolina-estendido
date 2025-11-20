@@ -76,7 +76,7 @@
 
 ### Vídeo Demonstração
 
-![Assista ao Vídeo](https://drive.google.com/file/d/1eImQk3Rzs72TdzvCpZW9NxX-8_UEuBv-/view?usp=sharing)
+[![Assista ao vídeo]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png])](https://drive.google.com/file/d/1eImQk3Rzs72TdzvCpZW9NxX-8_UEuBv-/view?usp=sharing)
 
 ---
 
