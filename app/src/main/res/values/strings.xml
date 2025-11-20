@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="titulo_app">Álcool ou Gasolina?</string>
+
+    <string name="station_name_label">Nome do Posto (Opcional)</string>
+    <string name="alcohol_price_label">Preço do Álcool (R$)</string>
+    <string name="gas_price_label">Preço da Gasolina (R$)</string>
+
+    <string name="lbl_criterio">Razão (percentual)</string>
+    <string name="btn_select_location">Selecionar localização</string>
+    <string name="get_location_button">Minha localização</string>
+    <string name="confirm_selection_button">Confirmar</string>
+
+    <string name="permission_denied_message">Permissão de localização negada.</string>
+    <string name="location_not_selected_app">Localização não selecionada</string>
+    <string name="selected_local">Local selecionado</string>
+
+    <string name="btn_salvar">Salvar</string>
+    <string name="invalid_values_message">Valores inválidos. Preencha preços corretamente.</string>
+    <string name="saved_comparison">Comparação salva</string>
+    <string name="unnamed_station">Posto sem nome</string>
+
+    <string name="selection_marker_title">Local selecionado</string>
+
+    <string name="titulo_historico">Comparações Salvas:</string>
+    <string name="msg_lista_vazia">Nenhum posto salvo ainda.</string>
+
+    <string name="desc_icone_posto">Ícone de posto de gasolina</string>
+    <string name="desc_editar">Editar</string>
+    <string name="desc_remover">Remover</string>
+
+    <string name="resultado_use_gasolina">Use gasolina</string>
+    <string name="resultado_use_alcool">Use álcool</string>
+
+    <string name="label_date">Data:</string>
+    <string name="label_prices">Álcool: R$ %.2f — Gasolina: R$ %.2f</string>
+    <string name="label_ratio_detail">Álcool = %.1f%% do preço da gasolina (%.2fx)</string>
+    <string name="label_threshold_used">Limite de rentabilidade usado: %d%% — %s</string>
+
+    <string name="cd_edit_station">Editar posto</string>
+    <string name="cd_delete_station">Remover posto</string>
+</resources>

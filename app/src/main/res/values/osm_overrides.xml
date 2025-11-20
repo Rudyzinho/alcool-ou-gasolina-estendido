@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Override for osmdroid cache manager message to avoid formatting substitution errors -->
+    <string name="cacheManagerHandlingMessage" formatted="false">Gerenciamento de cache do mapa</string>
+</resources>

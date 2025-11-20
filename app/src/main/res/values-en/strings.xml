@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alcohol or Gasoline</string>
+    <string name="titulo_app">Alcohol or Gasoline?</string>
+
+    <string name="station_name_label">Station Name (Optional)</string>
+    <string name="alcohol_price_label">Alcohol Price ($)</string>
+    <string name="gas_price_label">Gasoline Price ($)</string>
+
+    <string name="lbl_criterio">Ratio (percentage)</string>
+    <string name="btn_select_location">Select location</string>
+    <string name="get_location_button">My location</string>
+    <string name="confirm_selection_button">Confirm</string>
+
+    <string name="permission_denied_message">Location permission denied.</string>
+    <string name="location_not_selected_app">Location not selected</string>
+    <string name="selected_local">Selected location</string>
+
+    <string name="btn_salvar">Save</string>
+    <string name="invalid_values_message">Invalid values. Fill prices correctly.</string>
+    <string name="saved_comparison">Comparison saved</string>
+    <string name="unnamed_station">Unnamed station</string>
+
+    <string name="selection_marker_title">Selected location</string>
+
+    <string name="titulo_historico">Saved comparisons:</string>
+    <string name="msg_lista_vazia">No station saved yet.</string>
+
+    <string name="desc_icone_posto">Gas station icon</string>
+    <string name="desc_editar">Edit</string>
+    <string name="desc_remover">Remove</string>
+
+    <string name="resultado_use_gasolina">Use gasoline</string>
+    <string name="resultado_use_alcool">Use alcohol</string>
+
+    <string name="label_date">Date:</string>
+    <string name="label_prices">Alcohol: $ %.2f — Gasoline: $ %.2f</string>
+    <string name="label_ratio_detail">Alcohol = %.1f%% of gasoline price (%.2fx)</string>
+    <string name="label_threshold_used">Threshold used: %d%% — %s</string>
+
+    <string name="cd_edit_station">Edit station</string>
+    <string name="cd_delete_station">Delete station</string>
+</resources>
